@@ -186,7 +186,7 @@ var play = {
 
 
 
-        var noteCollected = 0;
+        noteCollected = 0;
 
         //player
         playerDirection = 1;
