@@ -175,7 +175,6 @@ var loading ={
     
     
     
-        game.load.image('sky', 'assets/sky.png');
         map = game.add.tilemap('map');
         tileset = map.addTilesetImage('tiless', 'tiles');
 
